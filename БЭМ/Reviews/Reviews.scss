@@ -1,0 +1,30 @@
+.reviews{
+height: 300px; 
+width: calc(50% - 40px); 
+margin: 10px; float: left;
+}
+h4{
+color: #808080; 
+font-size: 25px; 
+font-family: Calibri; 
+margin: 10px;
+}
+.figure{
+background-color: #C0C0C0; 
+height: 50px; 
+width: 50px; 
+margin: 10px; 
+float: left;
+}
+.next-figure{
+background-color: #C0C0C0; 
+height: 50px; 
+width: 50px; 
+margin: 10px; 
+float: left; 
+clear: left;
+}
+.quote{
+float: left; 
+font-size: 10px;
+}
